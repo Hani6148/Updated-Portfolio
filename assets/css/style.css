@@ -1,0 +1,49 @@
+.background{
+background-image: url(../images/back.png);
+background-size:cover;
+background-position:center;
+background-repeat:no-repeat;
+}
+a{
+    font-weight: bold;
+}
+
+.brand-logo{
+    font-size: 100px;
+}
+
+.card-image{
+    margin-bottom: 20px;
+    
+   
+}
+
+.img{
+    
+    height: 300px;
+}
+/* .card{
+    background-image: url(../images/light.jpg);
+    background-size:cover;
+background-position:center;
+background-repeat:no-repeat;
+} */
+.card-content{
+    background-color: turquoise;
+    color: white;
+    font-size: 20px;
+    
+}
+
+.profile-imgs{
+  
+    height: 300px;
+    width: 650px;
+    padding-left: 20px;
+    
+}
+
+.slider .slides li {
+    height: 300px;
+    
+}
