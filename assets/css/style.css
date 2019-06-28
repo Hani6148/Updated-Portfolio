@@ -29,7 +29,7 @@ background-position:center;
 background-repeat:no-repeat;
 } */
 .card-content{
-    background-color: turquoise;
+    background-color: skyblue;
     color: white;
     font-size: 20px;
     
@@ -53,4 +53,8 @@ background-repeat:no-repeat;
 
 .card .card-image img {
     height: 300px;
+}
+.column{
+    background-color: skyblue;
+    border-radius:40px;
 }
